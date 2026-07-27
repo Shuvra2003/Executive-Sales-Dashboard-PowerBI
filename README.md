@@ -106,7 +106,7 @@ This project demonstrates dashboard design, data modeling, Power Query and DAX f
 | Property | Value |
 |----------|-------|
 | Dataset | Superstore Sales |
-| Rows | 9,994 |
+| Rows | 9,800 |
 | Columns | 18 |
 | Country | United States |
 | Time Period | 2015–2018 |
